@@ -7568,7 +7568,7 @@ export const recipes: Record<string, RecipeOutput> = {
   "book+boy": "school",
 "book+girl": "school",
 
-"school+bus": "school_bus",
+"bus+school": "school_bus",
   "football+house": "stadium",
 "soccer+house": "stadium",
   "image+phone": "selfie",
