@@ -3928,7 +3928,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "brick+fireplace": "chimney",
 "house+fireplace": "chimney",
 
-"fire+pepper": "chilli_pepper",
+"fire+pepper": "chili_pepper",
   "castle+mexico": "chichen_itza",
 
 "cacao+sugar": "chocolate",
