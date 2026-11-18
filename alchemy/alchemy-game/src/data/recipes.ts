@@ -6857,7 +6857,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "pit+soldier": "trench",
 "bus+horns": "trolleybus",
 "car+soldier": "troop_carrier",
-"panzer+soldier": "trooper",
+"soldier+tank": "trooper",
 
 "flower+needle": "thorn",
 "flower+woman": "thumbelina",
