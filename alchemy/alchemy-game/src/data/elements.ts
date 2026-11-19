@@ -2925,6 +2925,7 @@ export const elements: {
 { id: "deadpool", name: "Deadpool", emoji: "🔴" },
 { id: "death_star", name: "Death Star", emoji: "🌑" },
 { id: "decomposition", name: "Decomposition", emoji: "🧩" },
+  { id: "analysis", name: "Analysis", emoji: "🧩" },
 { id: "deer", name: "Deer", emoji: "🦌" },
 { id: "delivery_truck", name: "Delivery Truck", emoji: "🚚" },
 { id: "deltohedron", name: "Deltohedron", emoji: "🔷" },
