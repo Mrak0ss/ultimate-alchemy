@@ -4779,7 +4779,7 @@ export const elements: {
   { id: "chemical_rubbish", name: "Chemical Rubbish", emoji: "☣️" },
 { id: "chemical_waste", name: "Chemical Waste", emoji: "☢️" },
   { id: "cellulose", name: "Cellulose", emoji: "🌿" },
-  { id: "cephalopods", name: "Cephalopods", emoji: "🐙" },
+  { id: "cephalopod", name: "Cephalopod", emoji: "🐙" },
   { id: "cork", name: "Cork", emoji: "🪵" },
   { id: "citrus", name: "Citrus", emoji: "🍊" },
 { id: "crane", name: "Crane", emoji: "🏗️" },
