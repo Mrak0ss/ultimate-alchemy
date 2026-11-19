@@ -6237,7 +6237,6 @@ export const recipes: Record<string, RecipeOutput> = {
   "alcohol+berry": "liquor",
   "water+yeast": "moonshine",
   "cheese+sky": "moon",
-  "clam+sand": "mussels",
   "plankton+swamp": "clam",
   "oxygen+saltpeter": "nitrate",
   "milk+rum": "pina_colada",
@@ -6400,7 +6399,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "eel+snake": "muraena_eel",
 "antelope+fang": "musk_deer",
 "rat+swamp": "muskrat",
-"clam+sand": "mussels",
 
   "fish+snail": "nautilus",
 "eel+fish": "needlefish",
