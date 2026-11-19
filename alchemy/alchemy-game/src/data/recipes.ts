@@ -6400,7 +6400,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "eel+snake": "muraena_eel",
 "antelope+fang": "musk_deer",
 "rat+swamp": "muskrat",
-"mollusk+sand": "mussels",
+"clam+sand": "mussels",
 
   "fish+snail": "nautilus",
 "eel+fish": "needlefish",
@@ -6466,8 +6466,8 @@ export const recipes: Record<string, RecipeOutput> = {
 "fang+water": "shark",
 "deer+goat": "sheep",
 "horse+shark": "shorse",
-"mollusk+swamp": "slug",
-"mollusk+slug": "snail",
+"clam+swamp": "slug",
+"clam+slug": "snail",
 "life+poison": "snake",
 "leopard+snow": "snow_leopard",
 "feather+mouse": "sparrow",
@@ -7200,7 +7200,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "caterpillar+wheel": "caterpillar_platform",
 
 "sulfuric_acid+water+wood": "cellulose",
-"molluscs+water": "cephalopod",
+"clam+water": "cephalopod",
 "combustion_engine+saw": "chainsaw",
 "cuzn_battery+fire": "chemical_rubbish",
 "chemical_rubbish+container": "chemical_waste",
@@ -7286,7 +7286,7 @@ export const recipes: Record<string, RecipeOutput> = {
 
   "mineral+water": "mineral_water",
   "castle+water": "moat",
-  "molluscs+sand": ["mussels", "crab"],
+  "clam+sand": ["mussels", "crab"],
   "borehole+gas_field": "gas",
   "birds+sound": "nightingale",
   "hno3+water": "nitric_acid",
