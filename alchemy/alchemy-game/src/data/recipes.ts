@@ -7293,7 +7293,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "canines+cloven_hoofed_animals": "nonruminants",
 "grain+water_wheel": "noria",
 "paper+sound": "note",
-"incomplete_boiler+uranium": "nuclear_boiler",
+"boiler+uranium": "nuclear_boiler",
 "nuclear_boiler+steam_turbine": "nuclear_power_station",
 "container+nuclear_power_station": "nuclear_waste",
 
