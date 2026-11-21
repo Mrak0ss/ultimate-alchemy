@@ -3480,7 +3480,6 @@ export const elements: {
 { id: "lumberjack", name: "Lumberjack", emoji: "🪓" },
 { id: "blacksmith", name: "Blacksmith", emoji: "⚒️" },
 { id: "florist", name: "Florist", emoji: "💐" },
-{ id: "traveler", name: "Traveler", emoji: "🧳" },
 { id: "birdwatcher", name: "Birdwatcher", emoji: "🔭" },
 { id: "botanist", name: "Botanist", emoji: "🌱" },
 { id: "magician", name: "Magician", emoji: "🪄" },
