@@ -5711,7 +5711,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "axe+human": "lumberjack",
 "anvil+human": "blacksmith",
 "bouquet+human": "florist",
-"distance+human": "traveler",
+"distance+human": "tourist",
 "bird+human": "birdwatcher",
 "human+sprout": "botanist",
 "grass+palm": "pineapple",
