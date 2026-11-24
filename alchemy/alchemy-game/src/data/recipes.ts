@@ -1347,7 +1347,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "demon+human": "evil",
 "darkness+human": "evil",
 
-"net+butterfly": "butterfly_net",
+"butterfly+net": "butterfly_net",
 "milk+tool": "butter",
 "milk+motion": "butter",
 "energy+milk": "butter",
