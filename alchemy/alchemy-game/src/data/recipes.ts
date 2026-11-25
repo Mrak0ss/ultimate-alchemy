@@ -6804,7 +6804,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "barrel+grape": "wine",
 
 
-  "old_man+stick": "walking_cane",
+  "old_man+stick": "cane",
 "brick+engineer": "wall",
 "robot+yardman": "wall_e",
 "paper+wall": "wallpaper",
