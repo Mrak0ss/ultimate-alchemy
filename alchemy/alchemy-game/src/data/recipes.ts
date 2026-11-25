@@ -1697,7 +1697,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "paper+wood": "kite",
 "toy+wind": "fan",
 "sunflower+tool": "oil",
-"television+spiderman": "film",
+"spiderman+television": "film",
 
 "alcohol+can": "beer",
 "bee+wood": "beehive",
