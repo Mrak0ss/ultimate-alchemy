@@ -5271,4 +5271,5 @@ export const elements: {
 { id: "violin", name: "Violin", emoji: "🎻" },
 { id: "vivaldi", name: "Vivaldi", emoji: "🎻" },
 { id: "gallaghers", name: "Gallaghers", emoji: "🎸" },
+{ id: "compost", name: "Compost", emoji: "🌱" },
 ];
