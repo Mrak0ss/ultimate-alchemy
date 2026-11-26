@@ -6669,7 +6669,7 @@ export const recipes: Record<string, RecipeOutput> = {
 "earth+sun": "desert",
 "riddle+book": "detective",
 "salad+sport": "diet",
-"balloon+engine": "dirigible",
+"balloon+combustion_engine": "dirigible",
 "bar+melody": "disco",
 "castle+mouse": "disneyland",
 "medicine+human": "doctor",
@@ -7107,7 +7107,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "alarm_clock+sun": "morning",
 "alphabet+sound": "morse_code",
 "crown+russia": "moscow",
-"bicycle+engine": "motorcycle",
 
 "elephant+opposite": "mouse",
 
