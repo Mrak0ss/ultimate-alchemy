@@ -7718,4 +7718,6 @@ export const recipes: Record<string, RecipeOutput> = {
 "bow+guitar": "violin",
 "music+seasons": "vivaldi",
 "oasis+oasis": "gallaghers",
+"vegetable_waste+vegetable_waste": "compost",
+"hay+time": "compost",
 };
